@@ -1,4 +1,4 @@
-# Hi, I'm Lusanda Makrwanana
+# Lusanda Makrwanana
 
 ### Junior Data Engineer | Machine Learning | Deep Learning | Forecasting | AI
 
