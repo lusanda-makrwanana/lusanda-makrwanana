@@ -12,7 +12,7 @@ My work focuses on building reliable data pipelines, developing predictive model
 
 **Data Engineering:** ETL • Data Pipelines • Data Processing • Data Warehousing • Data Quality
 
-**Machine Learning:** Supervised Learning • Unsupervised Learning • Classification • Regression • Text Classification • Natural Language Processing • Predictive Modelling
+**Machine Learning:** Supervised Learning • Unsupervised Learning • Text Classification • Natural Language Processing • Predictive Modelling
 
 **Deep Learning:** Neural Networks • Representation Learning • Deep Learning Models
 
